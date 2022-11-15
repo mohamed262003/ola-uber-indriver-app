@@ -15,7 +15,7 @@ void main() async {
         ),
         home: Scaffold(
           appBar: AppBar(
-            title: const Text("Welcome to Drivers App hello"),
+            title: const Text("Welcome to Drivers App hello hi"),
           ),
           body: const MySplashScreen(),
         ),
